@@ -1,5 +1,3 @@
 hello 
 my name is aaryan
 i study in chitkara
-my age is 19
-i have macbook air m1
